@@ -1,0 +1,273 @@
+lesson,title,length,section
+326,PM Mindset,5,16
+327,Traditional Mindset Part 1,8,16
+328,Traditional Mindset Part 2,10,16
+329,Traditional Mindset Part 3,8,16
+330,Traditional Mindset Part 4,6,16
+331,Traditional Mindset Part 5,9,16
+332,Traditional Mindset Part 6,7,16
+333,Agile Mindset Part 1,3,16
+334,Agile Mindset Part 2,3,16
+335,Agile Mindset Part 3,3,16
+336,Agile Mindset Part 4,3,16
+337,Agile Mindset Part 5,4,16
+338,Agile Mindset Part 6,3,16
+339,49 Process Flow,14,17
+340,Outputs by Process Groups,8,17
+341,Project Documents Descriptions,6,17
+342,General Tips,6,17
+343,Study Tips,10,17
+290,ECO Introduction,8,15
+291,Domain 1 Task 1,5,15
+292,Domain 1 Task 2,10,15
+293,Domain 1 Task 3,4,15
+294,Domain 1 Task 4,5,15
+295,Domain 1 Task 5,4,15
+296,Domain 1 Task 6,6,15
+297,Domain 1 Task 7,4,15
+298,Domain 1 Task 8,4,15
+299,Domain 1 Task 9,4,15
+300,Domain 1 Task 10,5,15
+301,Domain 1 Task 11,7,15
+302,Domain 1 Task 12,6,15
+303,Domain 1 Task 13,4,15
+304,Domain 1 Task 14,6,15
+305,Domain 2 Task 1,5,15
+306,Domain 2 Task 2,5,15
+307,Domain 2 Task 3,4,15
+308,Domain 2 Task 4,4,15
+309,Domain 2 Task 5,5,15
+310,Domain 2 Task 6,7,15
+311,Domain 2 Task 7,5,15
+312,Domain 2 Task 8,5,15
+313,Domain 2 Task 9,5,15
+314,Domain 2 Task 10,7,15
+315,Domain 2 Task 11,5,15
+316,Domain 2 Task 12,3,15
+317,Domain 2 Task 13,5,15
+318,Domain 2 Task 14,4,15
+319,Domain 2 Task 15,3,15
+320,Domain 2 Task 16,3,15
+321,Domain 2 Task 17,5,15
+322,Domain 3 Task 1,7,15
+323,Domain 3 Task 2,5,15
+324,Domain 3 Task 3,4,15
+325,Domain 3 Task 4,4,15
+283,Application Introduction,3,14
+284,Application requirements,4,14
+285,Members vs. Non-members cost,5,14
+286,Starting the Application,8,14
+287,PM Experience,10,14
+288,Writing the Description,21,14
+289,PMI Audit,8,14
+203,Stakeholder Stewardship,2,10
+204,Educating People about agile,4,10
+205,Engaging Stakeholders,3,10
+206,Methods of Stakeholder Engagement,3,10
+207,Agile Chartering,3,10
+208,Definition of Done,3,10
+209,Set a shared vision,2,10
+210,Agile Modeling,4,10
+211,Personas,4,10
+212,Communicating with stakeholders,9,10
+213,Green Zone and Red Zone,5,10
+214,How to conduct a workshop,4,10
+215,Brainstorming,3,10
+216,Collaboration Games,6,10
+217,Using Critical Soft Skills,3,10
+218,Emotional Intelligence,4,10
+219,Negotiation,3,10
+220,Active Listening,6,10
+221,Facilitation,2,10
+222,Conflict Resolution,3,10
+223,Participatory Decision Models,2,10
+224,People Over Processes,3,10
+225,Development Team roles,4,10
+226,Building Agile teams,5,10
+227,Safe place,4,10
+228,Models of team development,2,10
+229,Tuckman Five stages of team development,5,10
+230,"Training, coaching, and mentoring",2,10
+231,Team Spaces,12,10
+232,Burn and Velocity charts,8,10
+,Quiz 13: Quiz,,10
+233,What is adaptive planning,3,11
+234,Agile Plans,5,11
+235,Progressive Elaboration,3,11
+236,Value Decomposition and Design the product box,4,11
+237,Coarse Requirements,3,11
+238,Timeboxing,3,11
+239,Estimation,3,11
+240,Ideal Time,2,11
+241,User Stories,8,11
+242,User Story Backlog,3,11
+243,Assigning points to the stories using Fibonacci Sequence,5,11
+244,Story Points and T-Shirt Sizing,4,11
+245,Wideband Delphi,3,11
+246,Using Planning Poker to assign story points,4,11
+247,Story Maps and Product Roadmaps,2,11
+248,Iterations and Spikes,4,11
+249,Iteration and Release Planning,4,11
+250,Understand how problems happens,4,11
+251,Technical Debt,2,11
+252,Success and Failure Modes,7,11
+253,Lead time and Cycle time,5,11
+254,Defects,2,11
+255,Variances and Control Limits,4,11
+256,Risk Management,5,11
+257,Fixing Problems,5,11
+258,Kaizen,5,11
+259,Customize Processes,4,11
+260,Value Stream Maps,5,11
+261,Project Pre-Mortems,2,11
+262,Retrospective Intro,2,11
+263,Set the stage,3,11
+264,Gather Data,3,11
+265,Generate insights,3,11
+266,Decide what to to do,2,11
+267,Close the retrospective,2,11
+268,Team self-assessment,3,11
+,Quiz 14: Quiz,,11
+277,Professional Reponsibilities and Ethics,2,13
+278,Truth,4,13
+279,Laws,3,13
+280,Gifts and Donations,3,13
+281,Permission,3,13
+282,PMI,4,13
+269,Hybrid Introduction,4,12
+270,Definable vs. Uncertainty,8,12
+271,Four Life Cycles,10,12
+272,Hybrid Method 1,8,12
+273,Hybrid Method 2,7,12
+274,Hybrid Method 3,3,12
+275,Hybrid method 4,3,12
+276,Hybrid Fit for purpose,5,12
+85,Develop Project Charter,14,8
+86,Identify stakeholders,10,8
+87,Develop Project Management Plan,14,8
+88,Plan Scope Management,8,8
+89,Collect Requirements,16,8
+90,Define Scope,9,8
+91,Create WBS,10,8
+92,Plan Schedule Management,5,8
+93,Define Activities,11,8
+94,Sequence Activities,12,8
+95,Estimate Activity Durations,12,8
+96,PERT Formula,6,8
+97,Develop Schedule,13,8
+98,Critical Path Method Intro,1,8
+99,Critical Path Method,4,8
+100,Calculate Critical Path,7,8
+101,Calculate float or slack,8,8
+102,Forward Pass,8,8
+103,Backward Pass,10,8
+104,Free Float,5,8
+105,CPM Practice 1,9,8
+106,CPM Practice 2,3,8
+107,CPM Practice 2 Answer,8,8
+108,Plan Cost Management,4,8
+109,Estimate Cost,9,8
+110,Determine Budget,9,8
+111,Plan Quality Management,14,8
+112,Plan Resources Management,9,8
+113,Estimate Activity Resources,6,8
+114,Plan Communication Management,12,8
+115,Plan Risk Management,7,8
+116,Identify Risks,7,8
+117,Perform Qualitative Risk Analysis,8,8
+118,Preform Quantitative Risk Analysis,6,8
+119,Plan Risk Response,9,8
+120,Plan Procurement Management,18,8
+121,Plan Stakeholder Engagement,6,8
+122,End of Planning,2,8
+123,Executing,2,8
+124,Direct and manage Project work,7,8
+125,Manage Project Knowledge,5,8
+126,Manage Quality,12,8
+127,Acquire Resources,8,8
+128,Develop Team,17,8
+129,OSCAR Model,4,8
+130,Drexler Sibbet Team Model,3,8
+131,Manage Team,10,8
+132,People Management Terms,8,8
+133,MBTI,10,8
+134,Project Communications,4,8
+135,Implement Risk Responses,3,8
+136,Conduct Procurements,4,8
+137,Manage Stakeholder Engagement,2,8
+138,End of Executing,2,8
+139,Intro to Monitoring and Controlling,2,8
+140,Monitor and Control Project Work,7,8
+141,Perform Integrated Change Control,12,8
+142,Validate Scope,7,8
+143,"Control Scope, Schedule Cost",15,8
+144,Earned Value Management Intro,1,8
+145,Earned Value Management,3,8
+146,Earned Value Management Formulas,11,8
+147,Earned Value Management Scenario 1,24,8
+148,Earned Value Management Scenario 2 Problem,2,8
+149,Earned Value Management Scenario 2 Answers,5,8
+150,EVM Formulas Tips,7,8
+151,Control Quality,11,8
+152,Control Resources,3,8
+153,Monitor Communication,4,8
+154,Monitor Risk,4,8
+155,Control Procurements,6,8
+156,Monitor Stakeholder Engagement,4,8
+157,Close Project or Phase,8,8
+158,How to take the upcoming quizzes,2,8
+,Quiz 2: Integration Quiz,,8
+,Quiz 3: Scope Management Quiz,,8
+,Quiz 4: Schedule Management Quiz,,8
+,Quiz 5: Cost Management Quiz,,8
+,Quiz 6: Quality Quiz,,8
+,Quiz 7: Resource Management Questions,,8
+,Quiz 8: Communications Management Questions,,8
+,Quiz 9: Risk Management Quiz,,8
+,Quiz 10: Procurement Management Quiz,,8
+,Quiz 11: Stakeholders Management Quiz,,8
+159,What is agile,2,9
+160,Agile vs. Traditional PM,9,9
+161,Agile Benefits,4,9
+162,Inverting the triangle,4,9
+163,Agile Manifesto,3,9
+164,Agile Manifesto Values,3,9
+165,Individuals and interactions over processes and tools,2,9
+166,Working software over comprehensive documentation,2,9
+167,Customer collaboration over contract negotiation,2,9
+168,Responding to change over following a plan,3,9
+169,Agile Guiding Principles,8,9
+170,Agile Methods,3,9
+171,Agile Process,21,9
+172,Scrum,6,9
+173,Scrum Activities,7,9
+174,Scrum Artifacts,4,9
+175,Extreme Programming,3,9
+176,XP Roles,2,9
+177,XP Practices,12,9
+178,Basic Terminology review,2,9
+179,Lean Development,9,9
+180,Kanban Development,10,9
+181,Other agile methods,1,9
+182,Agile declaration of Interdependence,4,9
+183,Agile mindset,3,9
+184,Leading Effectively,14,9
+185,Value-Driven Delivery,2,9
+186,Early Value Delivery,4,9
+187,Reduce Waste,3,9
+188,Assessing Value - Financial metrics,4,9
+189,Accounting on agile projects,4,9
+190,Key Performance Indicators,2,9
+191,Regulatory Compliance,3,9
+192,Risk Management,7,9
+193,How Customers Conduct Value Prioritization,3,9
+194,Different Prioritization Techniques,5,9
+195,Kano Analysis,3,9
+196,Delivering Value Incrementally,3,9
+197,Minimal Viable Product,2,9
+198,Tools for Agile Projects,8,9
+199,Limit WIP,2,9
+200,Cumulative Flow Diagrams,5,9
+201,Agile Contracting,5,9
+202,Verifying and Validating,4,9
+,Quiz 12: Agile Quiz,,9
