@@ -37,10 +37,10 @@ with open(sections_path, 'rb') as file:
 ## In order to process the bodies, the number of lessons 
 ## and the length must match
 
-split_first_line = re.compile(r'(\d{1,3}\. )')
+split_first_line = re.compile(r'(\d{1,3}\. ?)')
 split_second_line = re.compile(r'(\d{1,2}min)')
 split_unique_line = re.compile(r'\W+(.+)')
-for section_index, body in enumerate(bodies[:10]):
+for section_index, body in enumerate(bodies):
     body_lines = body.split('\n')
     section_class = sections[section_index]
     section = section_class.heading.section
@@ -54,7 +54,7 @@ for section_index, body in enumerate(bodies[:10]):
             title = split_unique_line.split(first_line)[1]
             length = None
         else:
-            lesson = splits_first_line[1][:-2]
+            lesson = splits_first_line[1].split('.')[0]
             title = splits_first_line[2]
             while True:
                 second_line = body_lines[body_line_index + 1]
