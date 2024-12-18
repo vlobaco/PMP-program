@@ -1,0 +1,63 @@
+﻿Section 10: Agile Stakeholder Management
+0/31 |2hr4min
+□	203. Stakeholder Stewardship
+HI 2min
+□	204. Educating People about agile
+Exl 4min
+□	205. Engaging Stakeholders
+HI 3min
+□	206. Methods of Stakeholder Engagement
+EH 3min
+O 207. Agile Chartering
+Ex] 3min
+O 208. Definition of Done
+Ex) 3min
+O 209. Set a shared vision
+HI 2min
+O 210. Agile Modeling
+4min
+□	211. Personas
+HI 4min
+□	212. Communicating with stakeholders
+£►] 9min
+□	213. Green Zone and Red Zone
+Ex) 5min
+□	214. How to conduct a workshop
+[►3 4min
+□	215. Brainstorming
+Ex) 3min
+O 216. Collaboration Games
+Ex3 6min
+O 217. Using Critical Soft Skills
+3min
+□	218. Emotional Intelligence
+in 4min
+□	219. Negotiation
+Exl 3min
+O 220. Active Listening
+6min
+O 221. Facilitation
+Exl 2min
+O 222. Conflict Resolution
+Exl 3min
+□	223. Participatory Decision Models
+(xJ 2min
+□	224. People Over Processes
+(XJ 3min
+□	225. Development Team roles
+© 4min
+□	226. Building Agile teams
+Ex) 5min
+□	227. Safe place
+Ex] 4min
+□	228. Models of team development
+Exl 2min
+□	229. Tuckman Five stages of team development
+Ex] 5min
+□	230. Training, coaching, and mentoring
+Ex] 2min
+□	231. Team Spaces
+Ex] 12min
+□	232. Burn and Velocity charts
+Ex] 8min
+□	Quiz 13: Quiz

@@ -1,0 +1,161 @@
+﻿Section 8: Processes to Manage a
+Traditional/Predictive Project
+0 / 84 | 9hr 27min
+□	85. Develop Project Charter
+[►] 14min
+□	86. Identify stakeholders
+[►] 10min
+□	87. Develop Project Management Plan
+[►] 14min
+□	88. Plan Scope Management
+(x) 8min
+□	89. Collect Requirements
+[►] 16min
+□	90. Define Scope
+[►] 9min
+□	91. Create WBS
+[►] 10min
+□	92. Plan Schedule Management
+lxl 5min
+□	93. Define Activities
+lxl 11min
+□	94. Sequence Activities
+Ct] 12min
+□	95. Estimate Activity Durations
+[►] 12min
+□	96. PERT Formula
+Ct] 6min
+□	97. Develop Schedule
+lxl 13min
+Q 98. Critical Path Method Intro
+[►] 1min
+Q 99. Critical Path Method
+Ct] 4min
+Q 100. Calculate Critical Path
+[►] 7min
+O 101. Calculate float or slack
+[►] 8min
+O 102. Forward Pass
+S 8min
+O 103. Backward Pass
+lxl 10min
+O 104. Free Float
+Ct] 5min
+Q] 105. CPM Practice 1
+lx) 9min
+O 106. CPM Practice 2
+Ct] 3min
+O 107. CPM Practice 2 Answer
+lxl 8min
+□	108. Plan Cost Management
+lxl 4min
+O 109. Estimate Cost
+Ixl 9min
+□	110. Determine Budget
+Ixl 9min
+□	111. Plan Quality Management
+lxl 14min
+□	112. Plan Resources Management
+Ixl 9min
+□	113. Estimate Activity Resources
+lxl 6min
+□	114. Plan Communication Management
+13] 12min
+□	115. Plan Risk Management
+lx) 7min
+O 116. Identify Risks
+lx) 7min
+O 117. Perform Qualitative Risk Analysis
+Ixl 8min
+O 118. Preform Quantitative Risk Analysis
+lx) 6min
+O 119. Plan Risk Response
+tx) 9min
+O 120. Plan Procurement Management
+Ci] 18min
+O 121. Plan Stakeholder Engagement
+[4] 6min
+O 122. End of Planning
+[4] 2min
+□	123. Executing
+tx) 2min
+□	124. Direct and manage Project work
+lx) 7min
+□	125. Manage Project Knowledge
+lx) 5min
+O 126. Manage Quality
+lx) 12min
+□	127. Acquire Resources
+lx) 8min
+O 128. Develop Team
+lx) 17min
+□	129. OSCAR Model
+Ixl 4min
+O 130. Drexler Sibbet Team Model
+lx) 3min
+□	131. Manage Team
+Ixl 10min
+□	132. People Management Terms
+Ixl 8min
+□	133. MBTI
+Ixl 10min
+□	134. Project Communications
+lx) 4min
+□	135. Implement Risk Responses
+lx) 3min
+O 136. Conduct Procurements
+Ixl 4min
+□	137. Manage Stakeholder Engagement
+Ixl 2min
+□	138. End of Executing
+Ixl 2min
+□	139. Intro to Monitoring and Controlling
+Ixl 2min
+□	140. Monitor and Control Project Work
+Ixl 7min
+□	141. Perform Integrated Change Control
+Ixl 12min
+O 142. Validate Scope
+Ixl 7min
+O 143. Control Scope, Schedule Cost
+Ixl 15min
+□	144. Earned Value Management Intro
+lxl 1min
+□	145. Earned Value Management
+lxl 3min
+□	146. Earned Value Management Formulas
+lxl 11min
+□	147. Earned Value Management Scenario 1
+lxl 24min
+□	148. Earned Value Management Scenario 2 Problem
+lxl 2min
+□	149. Earned Value Management Scenario 2 Answers
+lD 5min
+□	150. EVM Formulas Tips
+lxl 7min
+□	151. Control Quality
+lxl 11min
+□	152. Control Resources
+lxl 3min
+□	153. Monitor Communication
+lxl 4min
+□	154. Monitor Risk
+lxl 4min
+□	155. Control Procurements
+lxl 6min
+□	156. Monitor Stakeholder Engagement
+lD 4min
+□	157. Close Project or Phase
+lxl 8min
+□	158. How to take the upcoming quizzes
+lxl 2min
+□	Quiz 2: Integration Quiz
+□	Quiz 3: Scope Management Quiz
+□	Quiz 4: Schedule Management Quiz
+□	Quiz 5: Cost Management Quiz
+□	Quiz 6: Quality Quiz
+□	Quiz 7: Resource Management Questions
+□	Quiz 8: Communications Management Questions
+□	Quiz 9: Risk Management Quiz
+□	Quiz 10: Procurement Management Quiz
+□	Quiz 11: Stakeholders Management Quiz

@@ -1,0 +1,77 @@
+﻿Section 11: Agile Planning, Problem
+Resolution and Continuous Improvement
+0/37 | 2hr10min
+□	233. What is adaptive planning
+lx! 3min
+□	234. Agile Plans
+5min
+□	235. Progressive Elaboration
+O 3min
+□	236. Value Decomposition and Design the product box
+O 4min
+□	237. Coarse Requirements
+(x) 3min
+Q 238. Timeboxing
+lx! 3min
+□	239. Estimation
+lx] 3min
+I I 240. Ideal Time
+[V] 2min
+□	241. User Stories
+(xl 8min
+□	242. User Story Backlog
+lx) 3min
+□	243. Assigning points to the stories using Fibonacci
+Sequence
+lx] 5min
+□	244. Story Points and T-Shirt Sizing
+0 4min
+O 245. Wideband Delphi
+lx) 3min
+□	246. Using Planning Poker to assign story points
+lx) 4min
+□	247. Story Maps and Product Roadmaps
+[U 2min
+|~~| 248. Iterations and Spikes
+(xl 4min
+□	249. Iteration and Release Planning
+lx) 4min
+□	250. Understand how problems happens
+lx) 4min
+I I 251. Technical Debt
+lx) 2min
+□	252. Success and Failure Modes
+(xl 7min
+□	253. Lead time and Cycle time
+lxl 5min
+□	254. Defects
+lx> 2min
+□	255. Variances and Control Limits
+lx) 4min
+□	256. Risk Management
+lx) 5min
+□	257. Fixing Problems
+lx) 5min
+Q] 258. Kaizen
+lx) 5min
+□	259. Customize Processes
+lx) 4min
+0 260. Value Stream Maps
+lx) 5min
+□	261. Project Pre-Mortems
+lxl 2min
+□	262. Retrospective Intro
+lxl 2min
+Q] 263. Set the stage
+lx) 3min
+□	264. Gather Data
+lx] 3min
+265.	Generate insights
+lx) 3min
+266.	Decide what to to do
+lx! 2min
+□	267. Close the retrospective
+lx) 2min
+□	268. Team self-assessment
+lx) 3min
+□	Quiz 14: Quiz

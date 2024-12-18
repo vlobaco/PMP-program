@@ -1,0 +1,94 @@
+﻿Section 9: Agile Project Management
+Methods and Delivery
+0 / 45 | 3hr 30min
+□	159. What is agile
+lx] 2min
+Q] 160. Agile vs. Traditional PM
+[£] 9min
+161. Agile Benefits
+[£] 4min
+□	162. Inverting the triangle
+[V] 4min
+O 163. Agile Manifesto
+£►] 3min
+□	164. Agile Manifesto Values
+0 3min
+165. Individuals and interactions over processes and
+tools
+lxl 2min
+□	166. Working software over comprehensive
+documentation
+[►] 2min
+□	167. Customer collaboration over contract negotiation
+S 2min
+□	168. Responding to change over following a plan
+lx) 3min
+□	169. Agile Guiding Principles
+lx) 8min
+O 170. Agile Methods
+S 3min
+□	171. Agile Process
+lx] 21min
+□	172. Scrum
+© 6min
+Q] 173. Scrum Activities
+(Xi 7min
+□	174. Scrum Artifacts
+Ixl 4min
+□	175. Extreme Programming
+lx) 3min
+□	176. XP Roles
+lx) 2min
+□	177. XP Practices
+lx) 12min
+□	178. Basic Terminology review
+lxl 2min
+□	179. Lean Development
+lxl 9min
+□	180. Kanban Development
+lxl 10min
+□	181. Other agile methods
+lxl 1min
+182. Agile declaration of Interdependence
+lx) 4min
+O 183. Agile mindset
+lx) 3min
+□	184. Leading Effectively
+lx) 14min
+□	185. Value-Driven Delivery
+lxl 2min
+0 186. Early Value Delivery
+lxl 4min
+O 187. Reduce Waste
+lxl 3min
+□	188. Assessing Value - Financial metrics
+lx) 4min
+□	189. Accounting on agile projects
+lx) 4min
+□	190. Key Performance Indicators
+lx) 2min
+□	191. Regulatory Compliance
+lxl 3min
+□	192. Risk Management
+lxl 7min
+□	193. How Customers Conduct Value Prioritization
+lxl 3min
+□	194. Different Prioritization Techniques
+lxl 5min
+□	195. Kano Analysis
+lxl 3min
+□	196. Delivering Value Incrementally
+lx) 3min
+O 197. Minimal Viable Product
+lx) 2min
+O 198. Tools for Agile Projects
+lx) 8min
+□	199. Limit WIP
+lx) 2min
+□	200. Cumulative Flow Diagrams
+lxl 5min
+O 201. Agile Contracting
+lxl 5min
+□	202. Verifying and Validating
+lxl 4min
+□	Quiz 12: Agile Quiz
